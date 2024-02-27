@@ -2,7 +2,7 @@ package study.thread.ticket;
 
 /**
  * @author loongzhang
- * @Description DOING
+ * @Description test
  * @date 2023-01-09-9:59
  */
 public class Ticket implements Runnable {
